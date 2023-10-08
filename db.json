@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "dsafs",
+      "lastName": "dsaf",
+      "email": "sdaf@gmail.com",
+      "dob": "2023-10-01T18:15:00.000Z",
+      "gender": "female",
+      "education": "Intermidate",
+      "company": "dsf",
+      "experience": 3,
+      "package": 3,
+      "id": 2
+    },
+    {
+      "firstName": "dsaf",
+      "lastName": "sdfa",
+      "email": "dsa@yopmail.com",
+      "dob": "2023-10-01T18:15:00.000Z",
+      "gender": "male",
+      "education": "Intermidate",
+      "company": "sdaf",
+      "experience": 3,
+      "package": 3,
+      "id": 3
+    }
+  ]
+}
